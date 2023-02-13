@@ -1,5 +1,19 @@
-Dominio: código fuente de la capa de Dominio
-Presentación:  código fuente de la capa de Presentación
-Persistencia:  código fuente de la capa de Persistencia
-Imagenes: Imagenes utilizadas
-Games: Directorio donde se guardan los games
+DOCS:
+	-doc: analisis sobre la primera entrega con explicaciones sobre el
+	      esquema uml y el diagrama de casos de uso, estructuras de datos,
+	      y una descripcion del algoritmo usado
+	-uml: esquema en notacion uml de las clases
+	-use_case: diagrama de casos de uso
+
+EXE:
+	-DriverBoard: driver ejecutable para probar la clase Board
+	-DriverGame: driver ejecutable para probar la clase Game
+	-DriverMinimax: driver ejecutable para probar la clase Minimax
+	-DriverRanking: driver ejecutable para probar la clase Ranking
+
+FONTS:
+	-Dominio: Clases completas para la implementacion de la capa de Dominio
+	-Junit: Tests en JUnit para las clases Ranking y Player
+
+equipo-2.1:
+	-Descripcion de los integrantes del grupo

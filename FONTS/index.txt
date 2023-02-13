@@ -1,0 +1,5 @@
+Dominio: código fuente de la capa de Dominio
+Presentación:  código fuente de la capa de Presentación
+Persistencia:  código fuente de la capa de Persistencia
+Imagenes: Imagenes utilizadas
+Games: Directorio donde se guardan los games

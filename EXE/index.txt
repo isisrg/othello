@@ -1,0 +1,5 @@
+com: dependencias de Intellij
+Dominio: clases de dominio
+Persistencia: clases de persistencia
+Presentación: clases de presentación
+src: directorio donde se encuentran las imagenes

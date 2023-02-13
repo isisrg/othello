@@ -1,0 +1,2 @@
+DiagramasYDocumentación: documento con los diagramas y parte de la documentación
+Manual: Manual de usuario
